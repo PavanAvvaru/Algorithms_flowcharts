@@ -1,0 +1,50 @@
+ Library management system
+1.start
+2.add books or delete books or search books or available books list or give books
+3.save changes and exit 
+4.stop
+
+
+Atm Transactions
+1.start
+2.insert card in atm
+3.enter pin
+4.checks cridentials
+5.choose want operation want
+         with draw or deposite or balance inquery or mini statement
+6.disply required operation
+7.stop
+
+RESTAURANT MANAGEMENT
+
+----ORDER MANAGEMENT ALGORITHM-----
+1.start
+2.take order from custmor
+3.any special or spicy ingredents added on it ,,
+4.give order to chief
+5.take food from chief
+6.give to customer
+
+
+----Kitchen Management -----
+1.start
+2.prepare pre ingredents
+3.select need items to prepare food
+4.than start operation (switch on gas and keep boul and do cook)
+5.any special ingredients wants mix on it
+6.after prepare food exit operation(stop cooking)
+7.display(put in one plate and decerate it )
+8.stop
+
+
+
+------Employee Management Algorithms-----
+1.start
+2.employee details
+3.recognition and rewards
+4. performance measuring
+5.set goals
+6.behaviour of employee with team
+7.measuring improvement 
+8.increments or decrements
+9.stop
